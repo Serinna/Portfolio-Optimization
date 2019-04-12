@@ -5,5 +5,3 @@ In this project, I first used PCA to investigate the factors affecting return pr
 After that, I randomly generated 50000 portfolios, and select the best ones giving:
 1. the min variance
 2. the largest sharpe ratio
-
-The final results both have high variance, even with 500000 tries. 
